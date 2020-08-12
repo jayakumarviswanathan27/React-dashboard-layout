@@ -2,19 +2,22 @@
 
 
 .container1{
-    padding-top: 45px;
-    padding-left: 45px;
-    padding-right: 45px;
+   
     background-color:#F3F5FB;
     border:none ;
 }
 .header{
+    margin-left: 25px;
+    margin-top: 30px;
     background-color:#FAEBE7;
     height: 162px;
     border: none;
     border-radius: 12px;
+    margin-right: 25px;
 }
 .center1{
+    margin-left: 25px;
+    
     height: 370px;
     background-color: white;
     margin-top: 30px;
@@ -22,36 +25,57 @@
     border-radius: 12px;
 }
 .center2{
+
     background-color:white;
     height: 370px;
     margin-top: 30px;
     border: none;
     border-radius: 12px;
+    margin-right: 25px;
 }
 .footer1{
+    margin-left: 25px;
    
     background-color: #474798;
-    margin-top: 34px;
+    margin-top: 44px;
     margin-bottom: 6px;
-    height: 70px;
+    height: 80px;
     border: none;
     border-radius: 12px;
 }
 .footer2{
     
     background-color:#A2A2EA;
-    margin-top: 34px;
+    margin-top: 44px;
     margin-bottom: 6px;
-    height: 70px;
+    height: 80px;
     border: none;
     border-radius: 12px;
 }
 .footer3{
     
     background-color: #FF6B89;
-    margin-top: 34px;
+    margin-top: 44px;
     margin-bottom: 6px;
-    height: 70px;
+    height: 80px;
     border: none;
     border-radius: 12px;
+    margin-right: 25px;
+}
+.leftsider{
+    background-color: white;
+    width: 100%;
+    float: left;
+    height: 754px;
+
+}
+.content{
+    float: left;
+    
+}
+.rightsider{
+    background-color:white;
+    float: left;
+    width: 100%;
+    height: 754px;
 }
