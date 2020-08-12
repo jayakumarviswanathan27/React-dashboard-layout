@@ -1,10 +1,10 @@
 import React from 'react'
 import 'antd/dist/antd.css';
 import './Layout.css'
-import { Layout } from 'antd';
+
 import { Row, Col,} from 'antd';
 
-const {  Sider} = Layout;
+
 
 function layout() {
     return (
