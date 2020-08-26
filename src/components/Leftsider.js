@@ -1,9 +1,6 @@
 import React, { Component } from 'react'
 
-import { Row, Col,} from 'antd';
-import { Layout, Menu } from 'antd';
-import { UploadOutlined, UserOutlined, VideoCameraOutlined } from '@ant-design/icons';
-import './Layout.css'
+
 import {Link} from 'react-router-dom'
 class Leftsider extends Component {
         

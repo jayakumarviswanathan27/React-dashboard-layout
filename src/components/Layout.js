@@ -2,15 +2,15 @@ import React from 'react'
 import 'antd/dist/antd.css';
 import './Layout.css'
 
-import { Row, Col,} from 'antd';
+
 import Rightsider from './Rightsider';
 import Content from './Content'
 import Leftsider from './Leftsider';
 import {
     BrowserRouter as Router,
-    Switch,
+   
     Route,
-    Link
+   
   } from "react-router-dom";
 import Classes from './Dashboard/Classes';
 import Reasources from './Dashboard/Reasources';

@@ -1,6 +1,6 @@
 
 import React, { Component } from 'react'
-import { Row, Col,} from 'antd';
+
 import { Avatar } from 'antd';
 import { Button } from 'antd';
 

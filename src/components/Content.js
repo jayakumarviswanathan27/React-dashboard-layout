@@ -2,7 +2,7 @@
 import { Row, Col,} from 'antd';
 import { Progress } from 'antd';
 import { Avatar } from 'antd';
-import { UserOutlined } from '@ant-design/icons';
+
 export class content extends Component {
     render() {
         return (
