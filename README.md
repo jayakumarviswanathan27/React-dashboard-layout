@@ -1,1 +1,1 @@
-Published on : https://react-dashboard1.netlify.app/
+Published on : https://reactdashboard2.netlify.app/
