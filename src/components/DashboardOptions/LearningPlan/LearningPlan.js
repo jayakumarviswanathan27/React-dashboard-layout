@@ -1,13 +1,14 @@
 import React, { Component } from 'react'
-import '../Layout.css'
-class Chat extends Component {
+
+
+ class LearningPlan extends Component {
     render() {
         return (
             <div className="content  col-7">
-                Chat
+                Learning plan
             </div>
         )
     }
 }
 
-export default Chat
+export default LearningPlan

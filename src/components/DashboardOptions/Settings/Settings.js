@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import '../Layout.css'
+
 
 class Settings extends Component {
     render() {

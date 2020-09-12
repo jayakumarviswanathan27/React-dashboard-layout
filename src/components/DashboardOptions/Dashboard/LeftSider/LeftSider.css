@@ -1,0 +1,48 @@
+
+.leftsider{
+    background-color: white;
+    width: 100%;
+    float: left;
+    height: 100vh;
+   float:left;
+   margin-left: 0;
+   margin-right: 0;
+   overflow: hidden;
+  
+}
+
+.menu-div{
+    margin-top:20vh;
+    text-justify: left;
+    overflow: hidden;
+    
+    
+}
+
+.menu{
+    font-size: 15px;
+    overflow: hidden;
+    font-style: bold;
+    margin-bottom: 25px;
+    display: block;
+   
+    cursor: pointer;
+    
+    color:black;
+   
+   
+    
+    
+
+}
+
+.menu:active{
+    border-right-style: solid;
+}
+.upgrade{
+    background-color: #F4F5F9;
+    margin-top: 130px;
+    text-align: center;
+    border-radius: 13px;
+    padding-bottom: 10px;
+}

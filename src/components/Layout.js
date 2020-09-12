@@ -3,20 +3,20 @@ import 'antd/dist/antd.css';
 import './Layout.css'
 
 
-import Rightsider from './Rightsider';
-import Content from './Content'
-import Leftsider from './Leftsider';
+import Rightsider from './DashboardOptions/Dashboard/RightSider/Rightsider';
+import Content from './DashboardOptions/Dashboard/Content/Content'
+import Leftsider from './DashboardOptions/Dashboard/LeftSider/Leftsider';
 import {
     BrowserRouter as Router,
    
     Route,
    
   } from "react-router-dom";
-import Classes from './Dashboard/Classes';
-import Reasources from './Dashboard/Reasources';
-import LearningPlan from './Dashboard/LearningPlan';
-import Chat from './Dashboard/Chat';
-import Settings from './Dashboard/Settings';
+import Classes from './DashboardOptions/Classes/Classes';
+import Reasources from './DashboardOptions/Reasources/Reasources';
+import LearningPlan from './DashboardOptions/LearningPlan/LearningPlan';
+import Chat from './DashboardOptions/Chat/Chat';
+import Settings from './DashboardOptions/Settings/Settings';
  
 
 function layout() {
